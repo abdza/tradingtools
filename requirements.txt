@@ -1,0 +1,7 @@
+yfinance
+pandas
+pytz
+numpy
+newsapi-python
+sec_api
+bs4
